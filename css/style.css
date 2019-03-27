@@ -50,7 +50,7 @@ h3{
     line-height: 20px;
 }
 
-#react, #d3{
+#react, #d3, #node{
     display: flex;
     flex-direction: column;
     align-items: center;
